@@ -11,3 +11,7 @@ I'm [__@unstatistical__](https://github.com/unstatistical), a hobbyist developer
 <h2 align="center">My Experience</h2>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=cpp,cs,c,ts,js,html,css,py"</p>
+
+<h2 align="center">What I'm Listening To</h2>
+
+<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qlpvl2e2lsf6y5c6lqx5oijjzq&cover_image=true&theme=compact&show_offline=true&background_color=000000000&interchange=true&bar_color_cover=true" /></p>
