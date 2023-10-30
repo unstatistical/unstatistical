@@ -4,7 +4,7 @@ I'm [__@unstatistical__](https://github.com/unstatistical), a hobbyist developer
 
 <h2 align="center">On GitHub</h2>
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=unstatistical&theme=gruvbox&hide_border=true&border_radius=9.8&card_width=500&fire=EB5454&ring=EB6E2B&currStreakNum=EB5454&currStreakLabel=EB5454&dates=EB6E2B&sideLabels=EB5454&sideNums=EB5454&background=EBBB2000&stroke=EB6E2B" alt="GitHub Streak" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=unstatistical&theme=gruvbox&hide_border=true&border_radius=9.8&card_width=500&fire=EB5454&ring=EB6E2B&currStreakNum=EB5454&currStreakLabel=EB5454&dates=EB6E2B&sideLabels=EB5454&sideNums=EB5454&background=EBBB2000&stroke=EB6E2B" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=unstatistical&show_icons=true&bg_color=00000000&title_color=EB5454&hide_title=true&icon_color=EB5454&hide_border=true&text_color=EB6E2B&show=[reviews,dicussions_started,discussions_answered,prs_merged,prs_merged_precentage]&card_width=500" /></p>
 
