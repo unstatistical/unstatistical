@@ -11,3 +11,15 @@ I'm [__@unstatistical__](https://github.com/unstatistical), a hobbyist developer
 <h2 align="center">My Experience</h2>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=cpp,cs,c,ts,js,html,css,py"</p>
+
+<h2 align="center">My Bookshelf</h2>
+
+- [Compilers: Principles, Techniques, and Tools]()
+- [The Cartoon Guide to Statistics]()
+- [Introduction to Linear Algebra]()
+- [Cross-Platform Game Engine Development]()
+- [Hacker's Delight]()
+- [Applied Statistics and Probability for Engineers]()
+- [Concrete Mathematics: A Foundation for Computer Science]()
+- [Operating Systems: Three Easy Pieces]()
+- [Artificial Intelligence: A Modern Approach]()
