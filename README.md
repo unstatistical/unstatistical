@@ -1,25 +1,49 @@
-<h1 align="center">About Me</h1>
+# Hello, World!
 
-I'm [__@unstatistical__](https://github.com/unstatistical), a hobbyist developer. My favorite language is C++, but I also enjoy TypeScript. For games, I mainly use SDL, but I will occasionally use a little OpenGL and GLFW. I enjoy writing and interacting with interpreters and compilers. I am interested in operating systems. I like C++ because it is so simple and fast, and that is also why I prefer it to TypeScript. I am not too good at makefiles, but there will likely be a makefile in most of my projects. I enjoy listening to seventies, eighties, and nineties rock music. My favorite theme is [__gruvbox__](https://github.com/morhetz/gruvbox). Math is another one of my hobbies.
+I'm unstatistical, a student and hobbyist developer in high school as of September 2024. I hope for programing, buisness and finance classes, as well as advanced math. I use Ubuntu 20.04 LTS as my primary operating system. I use Visual Studio Code for programming. My favorite language is C++. I use the gruvbox theme. I use AI assisted development tools, but with caution. My favorite core class in school is math. I enjoy classic rock music. I often read xkcd comics in my free time. I have an atrocious sense of humor.
 
-<h2 align="center">On GitHub</h2>
+__C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.__
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=unstatistical&theme=gruvbox&hide_border=true&border_radius=9.8&card_width=500&fire=EB5454&ring=EB6E2B&currStreakNum=EB5454&currStreakLabel=EB5454&dates=EB6E2B&sideLabels=EB5454&sideNums=EB5454&background=EBBB2000&stroke=EB6E2B" /></p>
+_- Bjarne Stroustrup_
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=unstatistical&show_icons=true&bg_color=00000000&title_color=EB5454&hide_title=true&icon_color=EB5454&hide_border=true&text_color=EB6E2B&show=[reviews,dicussions_started,discussions_answered,prs_merged,prs_merged_precentage]&card_width=500" /></p>
+## Programming Languages
 
-<h2 align="center">My Experience</h2>
+Programming languages I know ranked from best to worst.
 
-<p align="center"><img src="https://skillicons.dev/icons?i=cpp,cs,c,ts,js,html,css,py"</p>
+1. C++
+2. Objective C
+3. C
+4. Java
+5. V
+6. TypeScript
+7. JavaScript
+8. C#
+9. Python
+10. Swift
+11. Assembly
+12. Bash
 
-<h2 align="center">My Bookshelf</h2>
+__There are only two kinds of programming languages: those people always bitch about and those nobody uses.__
 
-- [Compilers: Principles, Techniques, and Tools]()
-- [The Cartoon Guide to Statistics]()
-- [Introduction to Linear Algebra]()
-- [Cross-Platform Game Engine Development]()
-- [Hacker's Delight]()
-- [Applied Statistics and Probability for Engineers]()
-- [Concrete Mathematics: A Foundation for Computer Science]()
-- [Operating Systems: Three Easy Pieces]()
-- [Artificial Intelligence: A Modern Approach]()
+_-Bjarne Stroustrup_
+
+## Programming Tools
+
+Programming tools I use.
+
+- Visual Studio Code
+- Visual Studio
+- GitHub
+- Git
+- GCC
+- Clang
+- Apt
+- Docker
+- Emacs
+- Make
+- CMake
+- Snap
+
+__The computer was born to solve problems that did not exist before.__
+
+_- Bill Gates_
