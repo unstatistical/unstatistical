@@ -27,6 +27,14 @@ __There are only two kinds of programming languages: those people always bitch a
 
 _-Bjarne Stroustrup_
 
+## My Code
+
+Typically, I use Google style guides for my code. My code may be sloppy, as I am self taught, but I'm working on it.
+
+__One of my most productive days was throwing away 1,000 lines of code.__
+
+_- Ken Thompson_
+
 ## Programming Tools
 
 Programming tools I use.
