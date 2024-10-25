@@ -1,6 +1,20 @@
 # Hello, World!
 
-I'm unstatistical, a student and hobbyist developer in high school as of September 2024. I hope for programing, buisness and finance classes, as well as advanced math. I use Ubuntu 20.04 LTS as my primary operating system. I use Visual Studio Code for programming. My favorite language is C++. I use the gruvbox theme. I use AI assisted development tools, but with caution. My favorite core class in school is math. I enjoy classic rock music. I often read xkcd comics in my free time. I have an atrocious sense of humor.
+Compilers.
+Artificial Intelligence.
+Machine Learning.
+Operating Systems.
+Game Development.
+
+Currently working on [unstatistical/engine](https://github.com/unstatistical/engine).
+
+__As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow.__
+
+_- Doug McIlroy_
+
+## A Little About Me
+
+I'm unstatistical. I don't use my real name for personal reasons. I'm a freshman in high school. I primarily use C/C++, or other low-level languages, because I enjoy the capabilities that you obtain the closer you get to straight machine code.
 
 __C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.__
 
