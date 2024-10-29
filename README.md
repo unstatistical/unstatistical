@@ -1,3 +1,8 @@
+```c
+#ifndef UNSTATISTICAL_HELLO_WORLD_H_
+#define UNSTATISTICAL_HELLO_WORLD_H_
+```
+
 # Hello, World!
 
 ```c
@@ -109,4 +114,9 @@ I enjoy listening to nü-metal music. Some bands I enjoy most to least.
 19. Sevendust
 
 __The code you write makes you a programmer. The code you delete makes you a good one. The code you don’t have to write makes you a great one.__
+
 _- Mario Fusco_
+
+```c
+#endif // UNSTATISTICAL_HELLO_WORLD_H_
+```
