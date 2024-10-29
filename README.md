@@ -30,9 +30,9 @@ _- Bjarne Stroustrup_
 
 Programming languages I know ranked from best to worst.
 
-1. C++
+1. C
 2. Objective C
-3. C
+3. C++
 4. Java
 5. V
 6. TypeScript
@@ -42,6 +42,15 @@ Programming languages I know ranked from best to worst.
 10. Swift
 11. Assembly
 12. Bash
+
+Honarary mentions, that aren't general considered programming languages.
+
+1. Markdown
+2. JSON
+3. YAML
+4. HTML
+5. CSS
+6. RST
 
 __There are only two kinds of programming languages: those people always bitch about and those nobody uses.__
 
@@ -75,3 +84,29 @@ Programming tools I use.
 __The computer was born to solve problems that did not exist before.__
 
 _- Bill Gates_
+
+## Music
+
+I enjoy listening to nü-metal music. Some bands I enjoy most to least.
+
+1. Primer 55
+3. Disturbed
+4. Slaves on Dope
+5. Coal Chamber
+6. Static-X
+7. Snot
+8. Slipknot
+9. Korn
+10. Deftones
+11. Dope
+12. Ill Niño
+13. Soulfly
+14. Spineshank
+15. Mudvayne
+16. Flaw
+17. Fear Factory
+18. Mushroomhead
+19. Sevendust
+
+__The code you write makes you a programmer. The code you delete makes you a good one. The code you don’t have to write makes you a great one.__
+_- Mario Fusco_
