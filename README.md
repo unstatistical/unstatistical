@@ -90,33 +90,6 @@ __The computer was born to solve problems that did not exist before.__
 
 _- Bill Gates_
 
-## Music
-
-I enjoy listening to nü-metal music. Some bands I enjoy most to least.
-
-1. Primer 55
-3. Disturbed
-4. Slaves on Dope
-5. Coal Chamber
-6. Static-X
-7. Snot
-8. Slipknot
-9. Korn
-10. Deftones
-11. Dope
-12. Ill Niño
-13. Soulfly
-14. Spineshank
-15. Mudvayne
-16. Flaw
-17. Fear Factory
-18. Mushroomhead
-19. Sevendust
-
-__The code you write makes you a programmer. The code you delete makes you a good one. The code you don’t have to write makes you a great one.__
-
-_- Mario Fusco_
-
 ```c
 #endif // UNSTATISTICAL_HELLO_WORLD_H_
 ```
