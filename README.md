@@ -90,6 +90,24 @@ __The computer was born to solve problems that did not exist before.__
 
 _- Bill Gates_
 
+
+## School
+
+Classes, and their grades.
+
+__AGS 2__ A
+__Spanish 2__ A
+__Marketing 1__ A
+__World History__ A
+__Accounting 1__ A
+__Biology__ A
+__PE 1__ A
+__English 9__ A
+
+__Code is read much more often than it is written.__
+
+_- Guido van Rossum_
+
 ```c
 #endif // UNSTATISTICAL_HELLO_WORLD_H_
 ```
