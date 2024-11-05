@@ -96,12 +96,19 @@ _- Bill Gates_
 Classes, and their grades.
 
 __AGS 2__ A
+
 __Spanish 2__ A
+
 __Marketing 1__ A
+
 __World History__ A
+
 __Accounting 1__ A
+
 __Biology__ A
+
 __PE 1__ A
+
 __English 9__ A
 
 __Code is read much more often than it is written.__
