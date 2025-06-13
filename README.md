@@ -17,7 +17,7 @@ Machine Learning.
 Operating Systems.
 Game Development.
 
-Currently working on [unstatistical/engine](https://github.com/unstatistical/engine).
+Currently working on [unstatistical/game](https://github.com/unstatistical/game).
 
 __As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow.__
 
